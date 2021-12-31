@@ -12,8 +12,8 @@
 <br>
 
 1. [x] Introdução
-2. [ ] Primeiro Perceptron
-3. Redes Neurais para Regressão
+2. [X] Primeiro Perceptron
+3. [ ] Redes Neurais para Regressão
 4. Redes Neurais para Classificação
 5. Redes Neurais convolucionais
 6. Transferência de Aprendizagem
