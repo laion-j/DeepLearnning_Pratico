@@ -11,8 +11,8 @@
 
 <br>
 
-1. Introdução
-2. Primeiro Perceptron
+1. [x] Introdução
+2. [ ] Primeiro Perceptron
 3. Redes Neurais para Regressão
 4. Redes Neurais para Classificação
 5. Redes Neurais convolucionais
@@ -26,6 +26,8 @@
 
 Este repositório é baseado nos meus estudos sobre este tema com o auxílio deste curso.
 
-> Cada tópico da ementa gerará uma pasta.
+>Cada tópico da ementa gerará uma pasta.
 
 >Cada exercícios gerará 1 ou mais arquivos python.
+
+>Utilizando #%% para rodar os códigos de Python.
