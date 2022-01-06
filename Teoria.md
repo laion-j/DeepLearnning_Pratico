@@ -58,7 +58,7 @@ Calcular a derivada parcial para mover a direção do grandiente.
 
 <br>
 
-![DescidaGradiente](/Images/descidaGradiente.jpg)
+![DescidaGradiente](/Images/descidaGradiente.png)
 *Print da tela da aula 109 - Seção 11: Anexo I*
 
 - Estocástica (SGD - Descida do Gradiente Estocástica)
